@@ -54,11 +54,5 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
-# illustrations 🍥
 
-- [UnDraw](https://undraw.co/illustrations)
 
-# References
-
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
